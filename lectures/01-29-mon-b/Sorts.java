@@ -29,37 +29,6 @@ class Sorts {
   // D: isSorted1(array) -> false, isSorted2(array) -> false
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   static int[] makeSortedArray(int size) {
     int[] arr = new int[size];
     for(int i = 0; i < arr.length; i += 1) {
